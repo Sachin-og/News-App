@@ -1,3 +1,15 @@
+# Features of news App
+
+This is single page react app which provides you with news across diffrent genres without loading page to swicth from one page to another.
+This app make use news api to fetch data from newsapi.com and show in a card form structure .
+
+## How To Use
+1. fork the file in vs code
+2. run npm i to install packages
+3. give your apiKey in app.js by fetching key from newsapi
+4. give command (npm run) to start the development server
+5. for more detail info about use of app is given below , take a brief read.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
